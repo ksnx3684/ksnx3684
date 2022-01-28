@@ -38,3 +38,4 @@ https://www.acmicpc.net/user/ksnx3684
 <img src="https://img.shields.io/badge/AWS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksnx3684&layout=compact)](https://github.com/ksnx3684/github-readme-stats)
