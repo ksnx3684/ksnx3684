@@ -34,10 +34,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
 
-## Sites
+## Blog
 https://ksnx3684.tistory.com/
-
-https://www.acmicpc.net/user/ksnx3684
 
 ---
 
