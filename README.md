@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
----
 
-## Stack
+
+### Stack
 
 <img src="https://img.shields.io/badge/Java-008FBC?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>
@@ -33,7 +33,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/AWS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
 
-## Blog
+---
+
+### Experience
+
+- 🎓 Inha Technical College (2014.03 ~ 2019.02)
+- ⚡ Doosan Fuel Cell Co., Ltd. (2019.05 ~ 2021.07)
+- 📖 SSangyong Institude of System Technology (2021.12 ~ 2022.06)
+- 💻 METABUILD.CO.,LTD. (2022.06 ~ )
+
+---
+
+### Blog
 https://ksnx3684.tistory.com/
 
 ---
