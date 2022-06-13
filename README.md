@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
  
-<img src="https://img.shields.io/badge/AWS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AWS RDS-F7981E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black"/>
 
 ---
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 - 🎓 Inha Technical College (2014.03 ~ 2019.02)
 - ⚡ Doosan Fuel Cell Co., Ltd. (2019.05 ~ 2021.07)
 - 📖 SSangyong Institude of System Technology (2021.12 ~ 2022.06)
-- 💻 METABUILD.CO.,LTD. (2022.06 ~ )
+- 💻 METABUILD.CO., LTD. (2022.06 ~ )
 
 ---
 
